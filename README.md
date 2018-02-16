@@ -32,7 +32,9 @@ After the fifth tier we are going to continue sales in 35 countries.
 Let’s consider an example: At the first stage of token sale project team offers to purchase 15% of their tokens in order to put collected funds into product development.
 Imagine that during the first month you bought company’s tokens for $ 100. On second tier token will cost twice as much, and token holders can sell 20% of their already purchased tokens for $ 40. During the third tier, 20% of your tokens will already cost $ 80, on fourth 15% of tokens can be sold for $ 120, and on fifth — 10% for $ 200.
 Thus, by investing only $ 100 in the first stage, regardless of the listing on exchange, you’ll get $ 440, and 35% of the tokens with minimum price of $ 700 will still remain with you. So, your total profit will be at least $ 1,140. Our smart contract guarantees the whole scheme functioning and the preemptive right to sell the tokens of the previous stage on the following stages.
+
 To start our smart contract testing we’ve already deployed it in Rinkeby:
+
 Ethereum Account 0x63Ef64148607460727daa991629a539D2E99A8dd Info
 The Ethereum BlockChain Explorer, API and Analytics Platformrinkeby.etherscan.io
 
